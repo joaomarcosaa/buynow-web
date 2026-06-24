@@ -53,3 +53,15 @@ O navegador abrirá automaticamente em `http://localhost:3000`.
 ---
 *Nota: Atualmente, o Spring Security está desabilitado no arquivo `application.properties` para fins de desenvolvimento.*
 
+Administrador:
+
+Email: gerente@buynow.com
+Senha: 123456
+
+Clientes:
+
+Email: joao@email.com | Senha: 123456
+Email: luisa@gmail.com | Senha: luisa123456
+
+Email: lucas@gmail.com Senha: lucas123
+Email joao@gmail.com	Senha: joao1234
